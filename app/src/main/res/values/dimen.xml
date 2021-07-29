@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="textSizeName">25sp</dimen>
+    <dimen name="textPaddingName">10sp</dimen>
+    <dimen name="textMarginStartEnd">25dp</dimen>
+    <dimen name="textMarginTop">15dp</dimen>
+    <dimen name="borderFill_bg_text_name">2dp</dimen>
+    <dimen name="fragmentMarginStartEnd">2dp</dimen>
+
+</resources>
